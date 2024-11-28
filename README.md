@@ -1,1 +1,1 @@
-![Corne][./img/corne.jpg]
+![Corne](./img/corne.jpg)
